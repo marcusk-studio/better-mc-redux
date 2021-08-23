@@ -1,0 +1,13 @@
+name = "Space Dimensions (Fabric)"
+filename = "agape_space_19_2-0.5.22.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "abd400978e66bf4e1185cd42a6793c1f99b774c2"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4216343
+project-id = 429841

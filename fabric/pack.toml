@@ -1,0 +1,12 @@
+name = "Fabric"
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "5bf16cf61249a1da691eca74c3af763fa074217d7f68b33d80ddc8822aeec30a"
+
+[versions]
+fabric = "0.14.19"
+minecraft = "1.19.2"

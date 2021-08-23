@@ -1,0 +1,13 @@
+name = "BisectHosting Server Integration Menu [FABRIC]"
+filename = "BHMenu-Fabric-1.19.2-2.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "5f0db8689f382484d6f820416637e63d3125a947"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4473503
+project-id = 585548
