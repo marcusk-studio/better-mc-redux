@@ -1,0 +1,13 @@
+name = "Wolf Armor Compat (Fabric)"
+filename = "wolf-armor-compat-1.0.3-1.19.2.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "e733189a9af1205da34419c20ecd653eb8866153"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4351224
+project-id = 702654

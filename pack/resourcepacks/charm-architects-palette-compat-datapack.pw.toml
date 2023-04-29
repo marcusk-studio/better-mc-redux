@@ -1,0 +1,13 @@
+name = "Charm - Architect's Palette Compat Datapack"
+filename = "Charm_Architects_Palette_integration.zip"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "c67766b84cdc749e363aafd7613b3e73c868ef89"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4094820
+project-id = 704939

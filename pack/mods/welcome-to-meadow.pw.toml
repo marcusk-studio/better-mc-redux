@@ -1,0 +1,13 @@
+name = "[Meadow] Let's do Cheese!"
+filename = "meadow-1.1.2-1.19.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "635c51ebb08f72aafd7b14ea5098d82a944976de"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4468471
+project-id = 821483

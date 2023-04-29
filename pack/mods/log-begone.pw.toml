@@ -1,0 +1,13 @@
+name = "Log Begone"
+filename = "Log-Begone-Fabric-1.19.x-1.0.5.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "ea5dacf0f0e8630c7cf73ef20c5bfa34ab521467"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4448302
+project-id = 623560

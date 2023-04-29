@@ -1,0 +1,13 @@
+name = "Better MC REDUX [Fabric 1.19.2]"
+author = "MARCUSK"
+version = "v18 MARCUSK"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "905fbc5df6e93bcbce050401c8d29d2ca81866be788365045571f8de5af67886"
+
+[versions]
+fabric = "0.14.19"
+minecraft = "1.19.2"

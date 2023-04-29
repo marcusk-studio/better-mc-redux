@@ -1,0 +1,13 @@
+name = "Nicer Skies"
+filename = "nicer-skies-1.2.0+1.19.2.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "348057c78c747247c64fadebb7024e8692cd5a2d"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4293401
+project-id = 736884

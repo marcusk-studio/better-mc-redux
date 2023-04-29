@@ -1,0 +1,13 @@
+name = "Charm - BetterNether Compat Datapack"
+filename = "Charm_BetterNether_integration_v2.zip"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "366f840541f4c35df3b2ae88b3257b3b1e61eb44"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4445287
+project-id = 704941
