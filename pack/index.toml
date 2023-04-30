@@ -1681,6 +1681,11 @@ file = "defaultconfigs/yosbr/options.txt"
 hash = "76b8c51ba2dd737e97624aaff1fd85b6ef750af2dc137d2e6617750f1058b617"
 
 [[files]]
+file = "mods/ad-astra.pw.toml"
+hash = "fcc1adb76adcdf283401b5844f15eef1e4ac9ef6a14a00fa96af08e4790c6e53"
+metafile = true
+
+[[files]]
 file = "mods/additional-structures-fabric.pw.toml"
 hash = "4ef55e1a00df449abacd89e5f15038f3291e7babf08f2ab358d7dea1ece8f0ac"
 metafile = true
@@ -1688,6 +1693,11 @@ metafile = true
 [[files]]
 file = "mods/additional-structures-fabric.pw.toml"
 hash = "4ef55e1a00df449abacd89e5f15038f3291e7babf08f2ab358d7dea1ece8f0ac"
+metafile = true
+
+[[files]]
+file = "mods/advanced-netherite-fabric.pw.toml"
+hash = "a9f2520e13800ba72cf54ea939ef3316339f510f62b27eae4a34cbee9366eca2"
 metafile = true
 
 [[files]]
@@ -1738,6 +1748,16 @@ metafile = true
 [[files]]
 file = "mods/another-furniture.pw.toml"
 hash = "110104a692a585005b21072118d2bdf0b068f06acbfe5c7bca5393a741463f5f"
+metafile = true
+
+[[files]]
+file = "mods/applied-energistics-2.pw.toml"
+hash = "22bf2764501d3c45c20bb78e0c88e0c6ed1bdba4f00b8d8eddadb5e3cb820175"
+metafile = true
+
+[[files]]
+file = "mods/arcanus.pw.toml"
+hash = "1378978db0c71fc028656d87bab4b9888cdf480fc958b7b0720f9e8ed6277b5a"
 metafile = true
 
 [[files]]
@@ -1891,6 +1911,16 @@ hash = "a7ca17787c935269fb3e7617790126fb94c51b6a0d8bbbccfee51fcea63eb432"
 metafile = true
 
 [[files]]
+file = "mods/bewitchment-plus.pw.toml"
+hash = "f0eb80e108320e1bd29902309d08af3b8e9752e698bcfe0a8a47485f6482f5b7"
+metafile = true
+
+[[files]]
+file = "mods/bewitchment.pw.toml"
+hash = "9d390f8378b38aa1ca9402721380827357552e12cff6c02cf272a9bfa8c39efa"
+metafile = true
+
+[[files]]
 file = "mods/biome-makeover.pw.toml"
 hash = "59d596ff4b2e32e2ceba4c39ba70f708c7b92d51dc6afd7b85ef46740bbc2094"
 metafile = true
@@ -1961,6 +1991,16 @@ hash = "ca55cf03f10f766e8c4680ab1b41e7b7645e7df87524580d3ad55a7a47fd7b0a"
 metafile = true
 
 [[files]]
+file = "mods/botany-pots.pw.toml"
+hash = "9c695f912d9f468e9253ab893bace7ce2a0586de657636c2a3c0795596a87d60"
+metafile = true
+
+[[files]]
+file = "mods/botarium.pw.toml"
+hash = "c16c821d42e7e7a5dfdbe01a0bde660feb98218e5a2e7d7506da7818606216c5"
+metafile = true
+
+[[files]]
 file = "mods/bountiful-fabric.pw.toml"
 hash = "59728592596adaba0664857ea87de5bb446c7f5d1e62f5f10d7f7453e42cd0be"
 metafile = true
@@ -1968,6 +2008,11 @@ metafile = true
 [[files]]
 file = "mods/bountiful-fabric.pw.toml"
 hash = "59728592596adaba0664857ea87de5bb446c7f5d1e62f5f10d7f7453e42cd0be"
+metafile = true
+
+[[files]]
+file = "mods/building-wands.pw.toml"
+hash = "4586e513829cc60eb90bcd680f4fe75fc85f104ce68f741cd15a09202ddeb504"
 metafile = true
 
 [[files]]
@@ -2058,6 +2103,11 @@ metafile = true
 [[files]]
 file = "mods/cherished-worlds-fabric.pw.toml"
 hash = "f0b517284e0b31c7b3dbefd9e215a9dc26d59a13be815c3daa86b01587e22995"
+metafile = true
+
+[[files]]
+file = "mods/chisel-reborn.pw.toml"
+hash = "5e6e844c0d69d2d70ba909dac227a90075ba6ee4f166a73896f6cdc9077a07b6"
 metafile = true
 
 [[files]]
@@ -2211,6 +2261,31 @@ hash = "99f471325f79754905177fb82b696e66302bd9a5b9ac3419278d482e8929d7ce"
 metafile = true
 
 [[files]]
+file = "mods/create-deco-fabric.pw.toml"
+hash = "19d7a6c74d602cd7fec2506804bd703359d9074f9ee9e40b8c061fc192c27a75"
+metafile = true
+
+[[files]]
+file = "mods/create-extended-cogwheels-fabric.pw.toml"
+hash = "ba3c9ee4ce1631059cc8677b042a243c12355dce2ed7213e49dac54b8bf9bd0c"
+metafile = true
+
+[[files]]
+file = "mods/create-extended-flywheels-fabric.pw.toml"
+hash = "141d942a606926d210d0c4c9d32e26593a4407f7e8db0a744a6a28a2d20d6f18"
+metafile = true
+
+[[files]]
+file = "mods/create-fabric.pw.toml"
+hash = "cc60139375f03edeb630730779f17d06a5d3ac99daae8f41415fa8adf903b960"
+metafile = true
+
+[[files]]
+file = "mods/createaddition.pw.toml"
+hash = "8260c756c1da49c5c97ef81d1442018979d6979aac0e37a79c864a680e15cf5d"
+metafile = true
+
+[[files]]
 file = "mods/creatures-from-the-snow-fabric.pw.toml"
 hash = "1bea7553ef8f8c87bc74790e8c26261dd5c72ee2662a657e3de4c281e58aa886"
 metafile = true
@@ -2218,6 +2293,11 @@ metafile = true
 [[files]]
 file = "mods/creatures-from-the-snow-fabric.pw.toml"
 hash = "1bea7553ef8f8c87bc74790e8c26261dd5c72ee2662a657e3de4c281e58aa886"
+metafile = true
+
+[[files]]
+file = "mods/croptopia.pw.toml"
+hash = "3318c70374f860b9b2ab3699621a7ace4a199dd63f06d3b5c6892067ec5f269d"
 metafile = true
 
 [[files]]
@@ -2458,6 +2538,11 @@ metafile = true
 [[files]]
 file = "mods/every-compat.pw.toml"
 hash = "4ae540324a17835fd31bce0431592506ed9a74e91e95bd46a450c228cad09f76"
+metafile = true
+
+[[files]]
+file = "mods/exlines-wool-to-string.pw.toml"
+hash = "2d3e096151ea4959674c708b7fc457a5923c448c0c139cf2268906a6bf98bba2"
 metafile = true
 
 [[files]]
@@ -2801,6 +2886,11 @@ hash = "5585173a32b9d76232ee90d79366ce2465f179bece63640fa990c6e43a8d0b06"
 metafile = true
 
 [[files]]
+file = "mods/immersive-aircraft.pw.toml"
+hash = "0e820afcdb868bbd4adead5496e4bbfeb6bb43ecd15ca0b065ae928f9ae3f3eb"
+metafile = true
+
+[[files]]
 file = "mods/immersive-weathering-fabric.pw.toml"
 hash = "7352d5fefb904bcc67ca6a8e63540d2040bf12f827e74817dec5b23a5c49a73b"
 metafile = true
@@ -2858,6 +2948,11 @@ metafile = true
 [[files]]
 file = "mods/irisshaders.pw.toml"
 hash = "50275d876985049a0db5b260412aaad8fc9c8158cd73950b8331302c89ade4a9"
+metafile = true
+
+[[files]]
+file = "mods/iron-chests-for-fabric.pw.toml"
+hash = "a17e9bce260be0005216d0ffaaa90be67db716748f3900a0ab2e1bfb79416ddc"
 metafile = true
 
 [[files]]
@@ -3361,6 +3456,11 @@ hash = "5d674c0a1cc601b03eb9e2a63d2e20e5204e2f7a9d0631422f9cc734db72ce4e"
 metafile = true
 
 [[files]]
+file = "mods/pehkui.pw.toml"
+hash = "a674b3691edb8664f598244fd07d76510a8481b8be3ad9af4428ab14b405307a"
+metafile = true
+
+[[files]]
 file = "mods/pick-up-notifier.pw.toml"
 hash = "a7d9c2b72a7d88a854aad2ffcc9be808db556f16c3cec5ab49f730b091627942"
 metafile = true
@@ -3381,6 +3481,11 @@ hash = "2acb6aabee96439a924c9bd9809d0ca471a9efa336e3c2d318b132b2e5dea7aa"
 metafile = true
 
 [[files]]
+file = "mods/plenty-of-armors.pw.toml"
+hash = "5aa1ffda41de58d491f304f9262857a336cb197d15819c6b45eca4e1b57e892d"
+metafile = true
+
+[[files]]
 file = "mods/plushie-mod.pw.toml"
 hash = "1669860229afd0f4b5c905e2d6e1e73e35609e2d9f4332417280b86c100533ed"
 metafile = true
@@ -3398,6 +3503,11 @@ metafile = true
 [[files]]
 file = "mods/polymorph-fabric.pw.toml"
 hash = "2c47a34f1e9c1ea09dbc1c68f4644a32978485bc5237c87a4899f9bccc37bf1a"
+metafile = true
+
+[[files]]
+file = "mods/powah-rearchitected.pw.toml"
+hash = "7d05028185f61ff15cd0598163da8180600183543cc0cea83416fb87dc479dc7"
 metafile = true
 
 [[files]]
@@ -3461,6 +3571,11 @@ hash = "4b4d562f4ad08a1c2eb345c9edf7d6bf41e3f8e517924f41e99ba5bbdbd06843"
 metafile = true
 
 [[files]]
+file = "mods/reborncore.pw.toml"
+hash = "e4badf81eabfe1f6cd95e36bc8e3d4a63281f7c97406be76437c2ef49e189f99"
+metafile = true
+
+[[files]]
 file = "mods/reeses-sodium-options.pw.toml"
 hash = "87e71b5daeb15cbe28c108fe2dae85a61997bd644f53affb69b77c314611dc0e"
 metafile = true
@@ -3491,6 +3606,11 @@ hash = "c059dce6b0674ca1e19499fcff37b7c0fe90bb563f46f92834632ffd7d5780d3"
 metafile = true
 
 [[files]]
+file = "mods/resourceful-config.pw.toml"
+hash = "c1318b2e17bc72fe0a1a9d1dcc778f2e34ab27e9093c77d78f4314d0edcec5ec"
+metafile = true
+
+[[files]]
 file = "mods/resourceful-lib.pw.toml"
 hash = "2f0b7852043b2a4b21a6c69891343cfa8f6ff4767af8d37af4d2c30090810df0"
 metafile = true
@@ -3498,6 +3618,11 @@ metafile = true
 [[files]]
 file = "mods/resourceful-lib.pw.toml"
 hash = "2f0b7852043b2a4b21a6c69891343cfa8f6ff4767af8d37af4d2c30090810df0"
+metafile = true
+
+[[files]]
+file = "mods/revelationary.pw.toml"
+hash = "6d91c6c9817438fc56185597b83792909d4657bd958a74629f6e11117659be4b"
 metafile = true
 
 [[files]]
@@ -3621,6 +3746,11 @@ hash = "a24471aa1e5442c00d2d411ad3701745f24edaae7b447c1790108db4a0a6e8c5"
 metafile = true
 
 [[files]]
+file = "mods/simply-swords.pw.toml"
+hash = "630876675354984a56cc0d40d174853d8298b9811e260573bb0d6c2fa220afbf"
+metafile = true
+
+[[files]]
 file = "mods/skin-layers-3d.pw.toml"
 hash = "3842b145ba1cc33a207a846e306b5e7ee46b78f7687b1bf3ab1a6968d90477af"
 metafile = true
@@ -3702,12 +3832,12 @@ metafile = true
 
 [[files]]
 file = "mods/sodium.pw.toml"
-hash = "d816ebefd14031acd676b2e7dc2d77ea7e1370903ddac480865fb68540216032"
+hash = "aa4dcf55ac3191b0b31437521714c1d28364c3396cf06ef07fa76a08488c1837"
 metafile = true
 
 [[files]]
 file = "mods/sodium.pw.toml"
-hash = "d816ebefd14031acd676b2e7dc2d77ea7e1370903ddac480865fb68540216032"
+hash = "aa4dcf55ac3191b0b31437521714c1d28364c3396cf06ef07fa76a08488c1837"
 metafile = true
 
 [[files]]
@@ -3728,6 +3858,11 @@ metafile = true
 [[files]]
 file = "mods/spark.pw.toml"
 hash = "ed630161a04121bc00562c9a9ceab91d8c1d0bda43ab83d2a1256609f3db1701"
+metafile = true
+
+[[files]]
+file = "mods/spectrum.pw.toml"
+hash = "980419c2b25ab932f3ccc442a33453a7f0e91e7a2bf7da4099094bf9074b30a4"
 metafile = true
 
 [[files]]
@@ -3811,6 +3946,11 @@ hash = "47ad7f43c9deaf64890c94d6cbafef248f80aeaea42a49a8d4888ba75a747045"
 metafile = true
 
 [[files]]
+file = "mods/techreborn.pw.toml"
+hash = "7d4ce0df929ce3534b5b35222a00ee370eb578a7c2acf976a59d6c3614087335"
+metafile = true
+
+[[files]]
 file = "mods/terrablender-fabric.pw.toml"
 hash = "d8811e747723a11a540557e9d602fe16fbbd55fdeb120342f008108f89e8226b"
 metafile = true
@@ -3818,6 +3958,11 @@ metafile = true
 [[files]]
 file = "mods/terrablender-fabric.pw.toml"
 hash = "d8811e747723a11a540557e9d602fe16fbbd55fdeb120342f008108f89e8226b"
+metafile = true
+
+[[files]]
+file = "mods/terralith.pw.toml"
+hash = "80b9078ef39c133105251c0c1c710cb2f8c165e1039faf72cf6bdc41f259576c"
 metafile = true
 
 [[files]]
@@ -3908,6 +4053,11 @@ metafile = true
 [[files]]
 file = "mods/transparent.pw.toml"
 hash = "fc21f4ec695874f7e05b52a9115f9b2616b5a6a84cb58f6567b3e1f308e427ed"
+metafile = true
+
+[[files]]
+file = "mods/travelers-backpack-fabric.pw.toml"
+hash = "ba42698278b6f9c15e7c8e91252bfcc607e95cb3941bf6526fe04a2b2df2e73c"
 metafile = true
 
 [[files]]
@@ -4042,12 +4192,12 @@ metafile = true
 
 [[files]]
 file = "mods/when-dungeons-arise-fabric.pw.toml"
-hash = "0d0eed7a6276bf9faed316a1baba988c4d3bffe1591a8ac1ba7bc49c63957e72"
+hash = "e3e38320424a8f19ea8c631f91b45bb439ab6b2f19cb5c6d3b9c3f3dca828486"
 metafile = true
 
 [[files]]
 file = "mods/when-dungeons-arise-fabric.pw.toml"
-hash = "0d0eed7a6276bf9faed316a1baba988c4d3bffe1591a8ac1ba7bc49c63957e72"
+hash = "e3e38320424a8f19ea8c631f91b45bb439ab6b2f19cb5c6d3b9c3f3dca828486"
 metafile = true
 
 [[files]]

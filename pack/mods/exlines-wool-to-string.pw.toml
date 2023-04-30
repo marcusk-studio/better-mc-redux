@@ -1,0 +1,13 @@
+name = "Exline's Wool to String"
+filename = "wooltostring-fabric-1.19.2-v1.0.4.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "c18158e4e0c6aadf9f02247ab0a2b4cfe9e1cc11"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4062660
+project-id = 502664
