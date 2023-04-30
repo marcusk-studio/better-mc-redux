@@ -1,11 +1,11 @@
-Better MC [FABRIC] - BMC1 = FABRIC 1.19.2 - https://www.curseforge.com/minecraft/modpacks/better-mc-fabric
+# Better MC - Marcusk Redux
 
-Better MC [FORGE] - BMC3 = FORGE 1.19.2 - https://www.curseforge.com/minecraft/modpacks/better-mc-new
+The [packwiz](https://packwiz.infra.link/) for Marcusk's Better MC fork is maintained here.
 
-Better MC [FORGE] - BMC2 = FORGE 1.18.2 - https://www.curseforge.com/minecraft/modpacks/better-mc-forge
+Currently, this pack is available for **Fabric 1.19.2** only.
 
-Better MC [FORGE] - BMC1 = FORGE 1.16.5 - https://www.curseforge.com/minecraft/modpacks/better-mc-modpack
+This Better MC fork has a handful of changes specifically compiled for the VIP server available to [MARCUSK Patron](https://www.patreon.com/MARCUSK) supporters.
 
-Better MC [PLUS] - BMP1 = FORGE 1.16.5 - https://www.curseforge.com/minecraft/modpacks/better-mc-plus
+## Credit
 
-Better MC [PLUS] - BMP2 = FORGE 1.18.2 - https://www.curseforge.com/minecraft/modpacks/better-mc-plus
+Many thanks to the creators of the original Better MC, they put the majority of the hard work in; to support those authors, take a look at the [original version](https://www.curseforge.com/minecraft/modpacks/better-mc-fabric)!
