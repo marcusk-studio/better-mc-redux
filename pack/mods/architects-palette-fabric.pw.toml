@@ -3,11 +3,11 @@ filename = "architects-palette-fabric-2.1.1.jar"
 side = "both"
 
 [download]
+url = "https://cdn.modrinth.com/data/ktECB2Rv/versions/2.2.1/architects-palette-fabric-2.1.1.jar"
 hash-format = "sha1"
 hash = "4c58faed102dbfb21b464b17b2b90e32f733def7"
-mode = "metadata:curseforge"
 
 [update]
-[update.curseforge]
-file-id = 3845046
-project-id = 487364
+[update.modrinth]
+mod-id = "ktECB2Rv"
+version = "CbSACorr"

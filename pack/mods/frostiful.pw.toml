@@ -1,13 +1,13 @@
 name = "Frostiful"
-filename = "frostiful-0.4.2.jar"
+filename = "frostiful-0.5.2.jar"
 side = "both"
 
 [download]
+url = "https://cdn.modrinth.com/data/Ae6qoBj3/versions/naLFKIUe/frostiful-0.5.2.jar"
 hash-format = "sha1"
-hash = "9c0106a97a00873eb0148b0e89525d6cd7719a6d"
-mode = "metadata:curseforge"
+hash = "dc172992c3502d9a2f97104a1b8051f0e6deaa43"
 
 [update]
-[update.curseforge]
-file-id = 4457008
-project-id = 715248
+[update.modrinth]
+mod-id = "Ae6qoBj3"
+version = "naLFKIUe"

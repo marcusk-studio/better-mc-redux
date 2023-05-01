@@ -1,13 +1,13 @@
-name = "Server Browser [Fabric/Forge]"
+name = "Server Browser"
 filename = "ServerBrowser-1.19.2-FABRIC-1.0.4.jar"
-side = "both"
+side = "client"
 
 [download]
+url = "https://cdn.modrinth.com/data/REH0O240/versions/BCbV4k1k/ServerBrowser-1.19.2-FABRIC-1.0.4.jar"
 hash-format = "sha1"
 hash = "7697b5aeef9f57a2e911b31ca232036aed1b1772"
-mode = "metadata:curseforge"
 
 [update]
-[update.curseforge]
-file-id = 4478428
-project-id = 825617
+[update.modrinth]
+mod-id = "REH0O240"
+version = "BCbV4k1k"

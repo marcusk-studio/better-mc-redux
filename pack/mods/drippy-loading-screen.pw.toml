@@ -1,0 +1,13 @@
+name = "Drippy Loading Screen"
+filename = "drippyloadingscreen_fabric_2.2.1_MC_1.19-1.19.2.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/v3CYg2V9/versions/TgjCRoUg/drippyloadingscreen_fabric_2.2.1_MC_1.19-1.19.2.jar"
+hash-format = "sha1"
+hash = "b971eb4da7d4485b2f0eb554f6046d76c3de1d77"
+
+[update]
+[update.modrinth]
+mod-id = "v3CYg2V9"
+version = "TgjCRoUg"
