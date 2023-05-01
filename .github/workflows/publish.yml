@@ -24,6 +24,28 @@ jobs:
     steps:
       - name: Checkout
         uses: actions/checkout@v3
+        with:
+          fetch-depth: 1 
+          lfs: true
+      - name: Setup Go
+        uses: actions/setup-go@v4
+        with:
+          go-version: 'stable'
+      - name: Install packwiz
+        run: |
+          go install github.com/packwiz/packwiz@latest
+      - name: Refresh pack
+        run: |
+          packwiz refresh -y
+        working-directory: pack
+      - name: Export pack to Curseforge format
+        run: |
+          packwiz curseforge export -y -o curseforge.zip
+        working-directory: pack
+      - name: Export pack to Modrinth format
+        run: |
+          packwiz modrinth export -y -o modrinth.mrpack
+        working-directory: pack
       - name: Setup Pages
         uses: actions/configure-pages@v3
       - name: Upload artifact
