@@ -1,13 +1,13 @@
-name = "Variant CraftingTables"
+name = "Variant Crafting Tables [Fabric/Quilt]"
 filename = "variantcraftingtables-3.2.9.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/sBfEsUwO/versions/xya69vGo/variantcraftingtables-3.2.9.jar"
 hash-format = "sha1"
 hash = "f32f9e5189810e575be0d9ee39d12f3e4f91608b"
+mode = "metadata:curseforge"
 
 [update]
-[update.modrinth]
-mod-id = "sBfEsUwO"
-version = "xya69vGo"
+[update.curseforge]
+file-id = 4183159
+project-id = 575271

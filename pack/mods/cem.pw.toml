@@ -1,13 +1,13 @@
-name = "Custom Entity Models"
+name = "Custom Entity Models (CEM)"
 filename = "cem-0.7.3-1.19.jar"
-side = "client"
+side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/YOQCucah/versions/JlpuBMAJ/cem-0.7.3-1.19.jar"
 hash-format = "sha1"
 hash = "015e02cf3fd8a5e6b49dc0246c8665bdcf0a9a58"
+mode = "metadata:curseforge"
 
 [update]
-[update.modrinth]
-mod-id = "YOQCucah"
-version = "JlpuBMAJ"
+[update.curseforge]
+file-id = 4412079
+project-id = 477078

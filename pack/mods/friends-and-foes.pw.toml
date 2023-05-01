@@ -3,11 +3,11 @@ filename = "friendsandfoes-fabric-mc1.19.2-1.8.1.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/POQ2i9zu/versions/JIATnP33/friendsandfoes-fabric-mc1.19.2-1.8.1.jar"
 hash-format = "sha1"
 hash = "acc6775a60907d21465a15889ec5e967fd508e35"
+mode = "metadata:curseforge"
 
 [update]
-[update.modrinth]
-mod-id = "POQ2i9zu"
-version = "JIATnP33"
+[update.curseforge]
+file-id = 4484562
+project-id = 551364

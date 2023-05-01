@@ -3,11 +3,11 @@ filename = "quartz-elevator-2.1.5+1.19.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/O9C0qdu8/versions/NchXZfKL/quartz-elevator-2.1.5%2B1.19.jar"
 hash-format = "sha1"
 hash = "139eaa3e464a686aa75f9d669e437e398a3b9368"
+mode = "metadata:curseforge"
 
 [update]
-[update.modrinth]
-mod-id = "O9C0qdu8"
-version = "NchXZfKL"
+[update.curseforge]
+file-id = 3931211
+project-id = 442509
