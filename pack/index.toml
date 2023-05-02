@@ -5,6 +5,10 @@ file = "README.txt"
 hash = "432598282dc2ed16c572ad3248604ec7c12ea2e6d756dfcf5caa371a967799e1"
 
 [[files]]
+file = "latest.log"
+hash = "7e03e9530dfac8be382473b655a70eaf5b7637b0607e9be9489d93afdb9b3057"
+
+[[files]]
 file = "mods/ad-astra.pw.toml"
 hash = "fcc1adb76adcdf283401b5844f15eef1e4ac9ef6a14a00fa96af08e4790c6e53"
 metafile = true
@@ -462,11 +466,6 @@ metafile = true
 [[files]]
 file = "mods/equipment-compare-fabric.pw.toml"
 hash = "6eeae038d7939a1cc7e6e79238451867efedcbf8c6f37316865d4589e3777b7e"
-metafile = true
-
-[[files]]
-file = "mods/every-compat.pw.toml"
-hash = "4ae540324a17835fd31bce0431592506ed9a74e91e95bd46a450c228cad09f76"
 metafile = true
 
 [[files]]
