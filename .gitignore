@@ -1,3 +1,2 @@
 *.jar
-fabric/
-.gitignore
+/fabric/

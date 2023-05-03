@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # The configuration file for Log Begone
 
 [logbegone]
@@ -5,4 +6,13 @@
 phrases = ["the_aether", "########## GL ERROR ##########", "@ Pre render", "65539: Invalid key -1", "@ Render"]
 
 # If a log message matches one of these regex patterns, it will be filtered out from logging. EX:
+=======
+# The configuration file for Log Begone
+
+[logbegone]
+# If a log message has one of these phrases, it will be filtered out from logging
+phrases = ["the_aether", "########## GL ERROR ##########", "@ Pre render", "65539: Invalid key -1", "@ Render"]
+
+# If a log message matches one of these regex patterns, it will be filtered out from logging. EX: 
+>>>>>>> 4450217 (feat!: migrate to new pack)
 regex = []

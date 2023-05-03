@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 showCapes:true
+=======
+showCapes:true
+>>>>>>> 4450217 (feat!: migrate to new pack)

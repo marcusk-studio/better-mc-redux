@@ -1,13 +1,13 @@
 name = "Paradise Lost"
-filename = "paradise-lost-2.0.2-beta+1.19.2.jar"
+filename = "paradise-lost-2.1.0-beta+1.19.2.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "b56a3eb75ec1c943947c8e6ea779c5c2aeb344dc"
+hash = "0c9f00367689648bf41f72f1c20575a9dda83bdc"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 4136712
+file-id = 4379294
 project-id = 418680

@@ -1,0 +1,8 @@
+name = "dd-java-agent"
+filename = "dd-java-agent.jar"
+side = "server"
+
+[download]
+url = "https://repo1.maven.org/maven2/com/datadoghq/dd-java-agent/1.13.0/dd-java-agent-1.13.0.jar"
+hash-format = "sha1"
+hash = "6cb5d8f461238bd345ab7a80c01d20268ed14668"

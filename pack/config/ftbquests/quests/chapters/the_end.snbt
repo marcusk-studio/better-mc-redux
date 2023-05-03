@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 {
 	id: "4B174BB2FDFE4D4F"
 	group: "59C90AA1B128306B"
@@ -186,3 +187,193 @@
 	]
 	quest_links: [ ]
 }
+=======
+{
+	id: "4B174BB2FDFE4D4F"
+	group: "59C90AA1B128306B"
+	order_index: 6
+	filename: "the_end"
+	title: " &5The End"
+	icon: "minecraft:end_portal_frame"
+	default_quest_shape: ""
+	default_hide_dependency_lines: false
+	quests: [
+		{
+			title: "Enter &5The End"
+			x: -0.5d
+			y: -0.5d
+			id: "07E305E95A000FAF"
+			tasks: [{
+				id: "42642531FFCE3EBA"
+				type: "dimension"
+				title: "Enter The End"
+				icon: "minecraft:end_stone"
+				dimension: "minecraft:the_end"
+			}]
+			rewards: [{
+				id: "1A4F1BAC0EB7387F"
+				type: "item"
+				item: "betterend:guidebook"
+			}]
+		}
+		{
+			title: "Defeat the &8&lEnder Dragon"
+			x: 1.0d
+			y: -0.5d
+			subtitle: "Respawned the same way as normal - placing an end crystal on all four cardinal directions on the exit portal's outer rim. The Dragon Saddle can be used later on in the questline."
+			dependencies: ["07E305E95A000FAF"]
+			id: "2CE58DD1AE214711"
+			tasks: [{
+				id: "6848B89E38A80BAB"
+				type: "kill"
+				title: "Kill the Ender Dragon"
+				icon: "minecraft:dragon_head"
+				entity: "minecraft:ender_dragon"
+				value: 1L
+			}]
+			rewards: [{
+				id: "1919D53920738BB2"
+				type: "item"
+				item: "adventurez:dragon_saddle"
+			}]
+		}
+		{
+			title: "Kill a &8Enderwarthog"
+			x: 1.0d
+			y: -2.0d
+			subtitle: "Found everywhere in &8The End."
+			dependencies: ["2CE58DD1AE214711"]
+			id: "21D51BCBD1818836"
+			tasks: [{
+				id: "64FF133673B090FC"
+				type: "kill"
+				title: "Kill a Enderwarthog"
+				icon: "adventurez:warthog_shell_piece"
+				entity: "adventurez:enderwarthog"
+				value: 1L
+			}]
+			rewards: [{
+				id: "288285752789C313"
+				type: "xp_levels"
+				xp_levels: 10
+			}]
+		}
+		{
+			title: "Kill a &3Ender Whale"
+			x: 1.0d
+			y: 1.0d
+			subtitle: "Found flying in the skies of &5The End&r. Can be saddled and led with Chorus Fruit."
+			dependencies: ["2CE58DD1AE214711"]
+			id: "523ECDEFE767B5D0"
+			tasks: [{
+				id: "0903C15F1037FC44"
+				type: "kill"
+				title: "Kill a Ender Whale"
+				icon: "adventurez:ender_whale_skin"
+				entity: "adventurez:ender_whale"
+				value: 1L
+			}]
+			rewards: [{
+				id: "62D410635AA984DE"
+				type: "xp_levels"
+				xp_levels: 10
+			}]
+		}
+		{
+			title: "Kill the &5Obsidilith"
+			x: 4.0d
+			y: -0.5d
+			subtitle: "Found in rare structures. &4A very difficult boss&r."
+			dependencies: ["2CE58DD1AE214711"]
+			id: "7E5FC5E13FFF2D6C"
+			tasks: [{
+				id: "4497666E1477F3A1"
+				type: "kill"
+				title: "Kill the Obsidilith"
+				icon: "bosses_of_mass_destruction:obsidian_heart"
+				entity: "bosses_of_mass_destruction:obsidilith"
+				value: 1L
+			}]
+			rewards: [
+				{
+					id: "57D997464AC5D88D"
+					type: "item"
+					item: "bosses_of_mass_destruction:levitation_block"
+				}
+				{
+					id: "2468832E9DF475E0"
+					type: "item"
+					item: "bosses_of_mass_destruction:mob_ward"
+				}
+				{
+					id: "0A5A507FD247009F"
+					type: "xp_levels"
+					xp_levels: 50
+				}
+			]
+		}
+		{
+			title: "Kill &6The Eye"
+			x: 2.5d
+			y: -0.5d
+			subtitle: "To build an &3Eye Shrine&r, build a 5x5 &5Obsidian &rplatform. On top of the platform, in the center, build a 3x3 layer of &bCrying Obsidian&r. Place an &fEnd Rod &ron all 4 corners of both layers. Then, place the &8Dragon Egg &rin the middle of the &bCrying Obsidian &rplatform to summon &6The Eye&r."
+			dependencies: ["7E5FC5E13FFF2D6C"]
+			id: "26E01F1822B87C9D"
+			tasks: [{
+				id: "0CE2C6F045E057B7"
+				type: "kill"
+				title: "Kill the Eye"
+				icon: "minecraft:ender_eye"
+				entity: "adventurez:the_eye"
+				value: 1L
+			}]
+			rewards: [
+				{
+					id: "4809C3912BC55A52"
+					type: "xp_levels"
+					xp_levels: 20
+				}
+				{
+					id: "453245E10B65817B"
+					type: "item"
+					item: "meadow:cheesecake"
+					count: 3
+				}
+			]
+		}
+		{
+			x: 5.5d
+			y: -0.5d
+			subtitle: "Found in The &k&4l&r&0&lVoid&r&k&4l &rdimension, which is entered via the portal that is generated when you kill &6The Eye&r. After killing the &8Void Shadow&r, it will drop a Dragon Egg. Stand near it after defeating the &8Void Shadow &rto hatch the egg. You can ride the dragon using the Dragon Saddle, once it has hatched. Press &bY&r to breathe fire while riding the dragon. The dragon will eat raw meat and Orc Skin."
+			dependencies: ["7E5FC5E13FFF2D6C"]
+			id: "246AB6FA4BDD0908"
+			tasks: [{
+				id: "2A2B668B1E7B490E"
+				type: "advancement"
+				title: "Enter the &k&4l&r&0&lVoid&r&k&4l &rand Defeat the &8Void Shadow"
+				icon: "minecraft:dragon_egg"
+				advancement: "adventurez:void_shadow_advancement"
+				criterion: ""
+			}]
+			rewards: [
+				{
+					id: "0E4791EEBA4DAC83"
+					type: "item"
+					item: "bosses_of_mass_destruction:monolith_block"
+				}
+				{
+					id: "0125929161D48076"
+					type: "item"
+					item: "adventurez:shadow_chest_block"
+				}
+				{
+					id: "21D5BF2F52B9C1F1"
+					type: "xp_levels"
+					xp_levels: 20
+				}
+			]
+		}
+	]
+	quest_links: [ ]
+}
+>>>>>>> 4450217 (feat!: migrate to new pack)
