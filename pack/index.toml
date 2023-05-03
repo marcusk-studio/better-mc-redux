@@ -154,11 +154,6 @@ hash = "9e538cf089ca697fdd2e932f36857651d392e6f00debf8cce24508f3ce744b63"
 metafile = true
 
 [[files]]
-file = "mods/bisecthosting-server-integration-menu-fabric.pw.toml"
-hash = "bea8fb49171c894dc883eff2aa8db46ade85e7cbd7628507bca6967f5acf3ba7"
-metafile = true
-
-[[files]]
 file = "mods/blur-fabric.pw.toml"
 hash = "03e0a01e5b1d3dbed13649b3a26d212f52ce27a30bf15d221509238fb4e73e69"
 metafile = true
@@ -511,11 +506,6 @@ metafile = true
 [[files]]
 file = "mods/falling-tree.pw.toml"
 hash = "e6f923a462483ca6233b7860d88952594417afa578196d690b7112339f469a6c"
-metafile = true
-
-[[files]]
-file = "mods/fancymenu.pw.toml"
-hash = "941f01d0237a25d33484f1a4fa17dc08163336c18c6435b2c30183b50ee28682"
 metafile = true
 
 [[files]]
@@ -1176,11 +1166,6 @@ metafile = true
 [[files]]
 file = "mods/supplementaries.pw.toml"
 hash = "47ad7f43c9deaf64890c94d6cbafef248f80aeaea42a49a8d4888ba75a747045"
-metafile = true
-
-[[files]]
-file = "mods/techreborn.pw.toml"
-hash = "7d4ce0df929ce3534b5b35222a00ee370eb578a7c2acf976a59d6c3614087335"
 metafile = true
 
 [[files]]
