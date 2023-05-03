@@ -5,10 +5,6 @@ file = "README.txt"
 hash = "432598282dc2ed16c572ad3248604ec7c12ea2e6d756dfcf5caa371a967799e1"
 
 [[files]]
-file = "latest.log"
-hash = "7e03e9530dfac8be382473b655a70eaf5b7637b0607e9be9489d93afdb9b3057"
-
-[[files]]
 file = "mods/ad-astra.pw.toml"
 hash = "fcc1adb76adcdf283401b5844f15eef1e4ac9ef6a14a00fa96af08e4790c6e53"
 metafile = true
@@ -666,11 +662,6 @@ metafile = true
 [[files]]
 file = "mods/inventory-hud-forge.pw.toml"
 hash = "7fffcce3f4ed60a994d0acc0c18ebcf87fa10778a13913ba23340847acbea581"
-metafile = true
-
-[[files]]
-file = "mods/iris.pw.toml"
-hash = "ec644a70524673946d8a987bbc4d3f0968c4885f55541b837ee14a366b218d35"
 metafile = true
 
 [[files]]
@@ -1366,11 +1357,6 @@ metafile = true
 [[files]]
 file = "mods/yacl.pw.toml"
 hash = "c6018049883190dee50c5a5ca7550142dd7578254e27cb4214b0dddeecdfe4dc"
-metafile = true
-
-[[files]]
-file = "mods/yigd.pw.toml"
-hash = "c64ff8146f82cfe0e963aa9d5522bd1f95fba06b2255d269da619bc64c4ab6fb"
 metafile = true
 
 [[files]]
