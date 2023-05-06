@@ -241,7 +241,7 @@ ao:2
 prioritizeChunkUpdates:0
 biomeBlendRadius:2
 renderClouds:"true"
-resourcePacks:["vanilla","Everycomp Generated Pack","Fabric Mods","Supplementaries Generated Pack","file/Stay_True_1.19.zip","charmonium/journeyman","lambdabettergrass/default","Immersive Weathering Generated Pack","Snowyspirit Generated Pack","continuity/default","file/xali\u0027s Enchanted Books v0.12.0.zip","file/MandalasGUI_Legacy+Modded_Dakmode_v3.8.3.zip","file/Mandalas_Legacy_Gui_Background.zip","file/Xaero\u0027s Minimap - Mod Icons.zip","file/NoBushyLeaves.zip","meadow/optifine_support"]
+resourcePacks:["vanilla","Everycomp Generated Pack","Fabric Mods","Supplementaries Generated Pack","file/Stay_True_1.19.zip","charmonium/journeyman","lambdabettergrass/default","Immersive Weathering Generated Pack","Snowyspirit Generated Pack","continuity/default","file/xali\u0027s Enchanted Books v0.12.0.zip","file/Mandalas_Legacy_Gui_Background.zip","file/Xaero\u0027s Minimap - Mod Icons.zip","file/NoBushyLeaves.zip","meadow/optifine_support"]
 incompatibleResourcePacks:[]
 lastServer:localhost
 lang:en_us
