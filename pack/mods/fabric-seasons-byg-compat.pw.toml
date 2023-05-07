@@ -1,0 +1,13 @@
+name = "Fabric Seasons: BYG Compat"
+filename = "fabric-seasons-byg-2.0.1.1-compat-1.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "9c0fa828b757efcea8877e00c435d559c542ce4c"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4496986
+project-id = 839880

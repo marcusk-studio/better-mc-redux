@@ -1557,6 +1557,26 @@ hash = "a1793fb3d541ce4e7a6d606b180287ffe0e08d660a2e03db33bcb06815e25668"
 metafile = true
 
 [[files]]
+file = "mods/fabric-seasons-byg-compat.pw.toml"
+hash = "4f5341b327fa39e669100bdf9d5245b024ca3bdaa772abc77dc0c510f0cba3ef"
+metafile = true
+
+[[files]]
+file = "mods/fabric-seasons-croptopia-compat.pw.toml"
+hash = "56626e2a968c130d5abf3ac623cc82a14cf022fdc3ce65c8e7d0c9cdaad820d3"
+metafile = true
+
+[[files]]
+file = "mods/fabric-seasons-extras.pw.toml"
+hash = "6581f76f7902b88af1b3ba586c22fcd625581659b93b0cd5b6584664bb7f14ef"
+metafile = true
+
+[[files]]
+file = "mods/fabric-seasons-terralith-compat.pw.toml"
+hash = "781137a2d19be7da0fc9a9f88a36d176fa1d82d3a7873b6dd2b0cd91e78335ec"
+metafile = true
+
+[[files]]
 file = "mods/fabric-seasons.pw.toml"
 hash = "acabbbd46513c6d11da96f4fe49597623610c1bf5d7f750d2a1d9d28c33809db"
 metafile = true
