@@ -2586,3 +2586,7 @@ metafile = true
 file = "resourcepacks/xalis-enchanted-books.pw.toml"
 hash = "af2cc0a35ba65e54a83ca7b340fe5be559145fbd9ce6ad711075862659ca292c"
 metafile = true
+
+[[files]]
+file = "servers.dat"
+hash = "b239910ee73280283b156673ec59faccdd7d47b06a719a5093e668fb61ac0364"
