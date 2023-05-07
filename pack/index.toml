@@ -1297,11 +1297,6 @@ hash = "d9ebd61b15db17061ca3ace40f4053b2c15f216e631a14eee887db64d3eeb326"
 metafile = true
 
 [[files]]
-file = "mods/charm.pw.toml"
-hash = "3bec248d77a44f165f5ca46ee297263c56d91de861444ef00e0d0f432156a8d8"
-metafile = true
-
-[[files]]
 file = "mods/charmonium.pw.toml"
 hash = "cd6b5907d8f15a87d3c1b3cf1f217af68e5826e74301c97d83920a5855f1684d"
 metafile = true
