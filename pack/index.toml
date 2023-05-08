@@ -65,6 +65,10 @@ file = "config/betterdeserttemples/fabric-1_19/README.txt"
 hash = "80ba474fdd1912739a1dc3326de6539ccfceb9d5c97f540131b567e295a7b112"
 
 [[files]]
+file = "config/betterend/biomes.json"
+hash = "b0b7f1c37f022a5e54191397ea3dc140af54dd26d275c3fe15a055cfb385042a"
+
+[[files]]
 file = "config/betterfortresses/README.txt"
 hash = "a4e97263d2f099fcbc3fd7646c85c562e1eb7659bfa5ff66b11f76afaa2f9c06"
 
@@ -608,6 +612,10 @@ hash = "3646bc39be8c42a1432506e77721f3b963d33948d4bbd4cd5a10703834979116"
 [[files]]
 file = "defaultconfigs/betterdeserttemples/fabric-1_19/README.txt"
 hash = "80ba474fdd1912739a1dc3326de6539ccfceb9d5c97f540131b567e295a7b112"
+
+[[files]]
+file = "defaultconfigs/betterend/biomes.json"
+hash = "b0b7f1c37f022a5e54191397ea3dc140af54dd26d275c3fe15a055cfb385042a"
 
 [[files]]
 file = "defaultconfigs/betterfortresses/README.txt"
