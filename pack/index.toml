@@ -1223,16 +1223,6 @@ hash = "a7ca17787c935269fb3e7617790126fb94c51b6a0d8bbbccfee51fcea63eb432"
 metafile = true
 
 [[files]]
-file = "mods/bewitchment-plus.pw.toml"
-hash = "f0eb80e108320e1bd29902309d08af3b8e9752e698bcfe0a8a47485f6482f5b7"
-metafile = true
-
-[[files]]
-file = "mods/bewitchment.pw.toml"
-hash = "9d390f8378b38aa1ca9402721380827357552e12cff6c02cf272a9bfa8c39efa"
-metafile = true
-
-[[files]]
 file = "mods/biome-makeover.pw.toml"
 hash = "59d596ff4b2e32e2ceba4c39ba70f708c7b92d51dc6afd7b85ef46740bbc2094"
 metafile = true
@@ -1505,11 +1495,6 @@ metafile = true
 [[files]]
 file = "mods/ecologics.pw.toml"
 hash = "4ae65ae9f012e7b1d27fa2934185dfbd35f6009d850c5d3662d3c10cc9a64be4"
-metafile = true
-
-[[files]]
-file = "mods/eden-ring.pw.toml"
-hash = "ad342f2db7c64b4ff6d9d44eb595ccb02c0d580426add6d255d1035091b3a9b8"
 metafile = true
 
 [[files]]
@@ -1973,11 +1958,6 @@ hash = "8e61c8bd0c467c99d4bfd8e0c04930fa750782a2d1b7646f42c94ee9831ed53b"
 metafile = true
 
 [[files]]
-file = "mods/open-parties-and-claims.pw.toml"
-hash = "ec897e58f79a3982620ec06ce0648e74c2561652bfdc2cd03233c71d586f8319"
-metafile = true
-
-[[files]]
 file = "mods/owo-lib.pw.toml"
 hash = "d4032db7e51e35e1592e07aeb9306e408c3ba8cff0699dced6a65cb463ee3202"
 metafile = true
@@ -2010,11 +1990,6 @@ metafile = true
 [[files]]
 file = "mods/paxi.pw.toml"
 hash = "5d674c0a1cc601b03eb9e2a63d2e20e5204e2f7a9d0631422f9cc734db72ce4e"
-metafile = true
-
-[[files]]
-file = "mods/pehkui.pw.toml"
-hash = "a674b3691edb8664f598244fd07d76510a8481b8be3ad9af4428ab14b405307a"
 metafile = true
 
 [[files]]
