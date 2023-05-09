@@ -1119,7 +1119,7 @@ metafile = true
 
 [[files]]
 file = "mods/adventurez.pw.toml"
-hash = "69ff69fc11e380ea960d04b809f724275866e96f4fe7600a64e420357632a725"
+hash = "a712dfbfb31acf2882ece31d6582241df33d43e87edf398b0c8e345e21ee3756"
 metafile = true
 
 [[files]]
@@ -1154,7 +1154,7 @@ metafile = true
 
 [[files]]
 file = "mods/architectury-api.pw.toml"
-hash = "c4d4eefeb556beb1d33a2fb479e4912ef2a58fe1fed76704a9aa7493618091a9"
+hash = "e2247eec92525ab53c6321cba8074de0e94bf49c113c1f31a779fceab132a6b4"
 metafile = true
 
 [[files]]
@@ -1299,7 +1299,7 @@ metafile = true
 
 [[files]]
 file = "mods/charm-of-undying-fabric.pw.toml"
-hash = "d9ebd61b15db17061ca3ace40f4053b2c15f216e631a14eee887db64d3eeb326"
+hash = "ecda79f28dc7b1a3432dc301198d0923ab6b2290622ae57cbc89ad90fecdf510"
 metafile = true
 
 [[files]]
@@ -1309,7 +1309,7 @@ metafile = true
 
 [[files]]
 file = "mods/chat-heads.pw.toml"
-hash = "d66c7828faa256eb3c419d24269cba2789dc62d19151f49282f842ab43f433ca"
+hash = "18a704a543a3bc007ecb527543bff6bd203840ee5c64f85555e7b9092d4a268a"
 metafile = true
 
 [[files]]
@@ -1379,7 +1379,7 @@ metafile = true
 
 [[files]]
 file = "mods/connectivity.pw.toml"
-hash = "eb4acd217a802f0f4f49fa79d86dee31f00d8085770c4f8813f547db7c9d44f9"
+hash = "702a42b07f92e35760dfeff5a3fc1cefa40db714c1de00db04d412f24bbe6fcb"
 metafile = true
 
 [[files]]
@@ -1424,7 +1424,7 @@ metafile = true
 
 [[files]]
 file = "mods/createaddition.pw.toml"
-hash = "8260c756c1da49c5c97ef81d1442018979d6979aac0e37a79c864a680e15cf5d"
+hash = "dd49ac0baa101bd7063a5b04ab05320918b7de19d8653ee1d5129892dbf3e3ca"
 metafile = true
 
 [[files]]
@@ -1579,7 +1579,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-seasons.pw.toml"
-hash = "acabbbd46513c6d11da96f4fe49597623610c1bf5d7f750d2a1d9d28c33809db"
+hash = "cd2fff9fe8e8e5d30965c31f4868b994b7b3c26e4b34386cd5b06a9a5771c1d1"
 metafile = true
 
 [[files]]
@@ -1639,7 +1639,7 @@ metafile = true
 
 [[files]]
 file = "mods/frostiful.pw.toml"
-hash = "b3ddf280c9993c88489bfaecc35bde2f09ad08f09d9ab4a473b016890304c110"
+hash = "fa32593605b9bfb1a83f64e7c47971c1827b1c75d186a5a4e9c8ec79dbb2340f"
 metafile = true
 
 [[files]]
@@ -1649,7 +1649,7 @@ metafile = true
 
 [[files]]
 file = "mods/ftb-quests-fabric.pw.toml"
-hash = "594c9590f765ab9b97da09852488095c14ab548b95f6879619e8cc39a3d6ab1d"
+hash = "9611f83f2134e57c879a380aafe900decc6a10b2574f15e208081bedba93c7b5"
 metafile = true
 
 [[files]]
@@ -1674,7 +1674,7 @@ metafile = true
 
 [[files]]
 file = "mods/geophilic.pw.toml"
-hash = "43eb2dddea88697c9e72fdbd2723e038c0f86914cf87ac92ffd7e66b213289d3"
+hash = "6d7d75c24bd124ea8bc684d80bed83b685c57b43bd914b7baa758b2f33f075ce"
 metafile = true
 
 [[files]]
@@ -1839,7 +1839,7 @@ metafile = true
 
 [[files]]
 file = "mods/log-begone.pw.toml"
-hash = "f2d514bb25a9d61c407209ddc13ab75e17b27c28883e7ec4dd2f22929ace32f8"
+hash = "cdab79d188f952aec675cb33f9c9d6350e92a7580f0eeee4d06673b9967ef0bf"
 metafile = true
 
 [[files]]
@@ -1909,7 +1909,7 @@ metafile = true
 
 [[files]]
 file = "mods/nether-depths-upgrade.pw.toml"
-hash = "c0c61de6194eec7b72147277346134c72ee5f1737a62e1ae641801812405eb28"
+hash = "e2dec82adcef30c531f6cbb7f866eed65cdacc7cbd3e7114db3fa19b51970aa6"
 metafile = true
 
 [[files]]
@@ -2019,7 +2019,7 @@ metafile = true
 
 [[files]]
 file = "mods/powah-rearchitected.pw.toml"
-hash = "5b56f75df82fa99970decb362f9d592bb3f5e691abe126b08bb7caf1b46a7688"
+hash = "2091527e28edf7c715b28d4bf205829b185652441ec2b786655c70122733d4a8"
 metafile = true
 
 [[files]]
@@ -2189,7 +2189,7 @@ metafile = true
 
 [[files]]
 file = "mods/spirit.pw.toml"
-hash = "17c730cef3bec9b43e187a2bdce9c133ad553714ed3eafb46799a4b04df3127d"
+hash = "542169f07384f64070bdb2a30329d7c24f7710d381d345b8d31b8be8b4cbc395"
 metafile = true
 
 [[files]]
@@ -2234,7 +2234,7 @@ metafile = true
 
 [[files]]
 file = "mods/the-bumblezone-fabric.pw.toml"
-hash = "90eb80b2e844f11a9584c42b670723915335f34fb66226eeb92f592a88c33e63"
+hash = "209286d5763f96ed5113ef933671484e774a86b4e483cfb28ad955f187d97e54"
 metafile = true
 
 [[files]]
@@ -2259,7 +2259,7 @@ metafile = true
 
 [[files]]
 file = "mods/toms-storage-fabric.pw.toml"
-hash = "20c3042779d6203655fc512d5ea9040c9fcbf778bc2fcda3b37d3b340ea0bf1e"
+hash = "3e6c29dcf5538307543c0bf5c28b031001b7d92ddadb9e8c489bf66be5b742f3"
 metafile = true
 
 [[files]]
@@ -2309,7 +2309,7 @@ metafile = true
 
 [[files]]
 file = "mods/variant-craftingtables.pw.toml"
-hash = "665878f9675a11f4a2ed8042c1162e7b5e9f5d6be4c3ca924cb49e316c23516e"
+hash = "32789e810c154247715b8a3f4701ce310431cbcf3c477d168ed1d12dffc649e1"
 metafile = true
 
 [[files]]

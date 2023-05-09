@@ -1,13 +1,13 @@
 name = "Powah! (Rearchitected)"
-filename = "Powah-4.0.9.jar"
+filename = "Powah-4.0.10.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "57764c1737ea195dfc5f34e07e4fd6d3a935146f"
+hash = "302e84478b3f44afd480981c09471786892c1371"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 4514464
+file-id = 4525231
 project-id = 633483
