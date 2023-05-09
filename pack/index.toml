@@ -2138,6 +2138,11 @@ hash = "a24471aa1e5442c00d2d411ad3701745f24edaae7b447c1790108db4a0a6e8c5"
 metafile = true
 
 [[files]]
+file = "mods/simply-swords.pw.toml"
+hash = "9564fdec81b576b808ff2b86890977dd2ebb242013580c42d93ca73a0eb0c1aa"
+metafile = true
+
+[[files]]
 file = "mods/smarter-farmers-farmers-replant.pw.toml"
 hash = "03b098b00391f8dd95a73d745d38018b8edc7c37dea4deb8d901cebb9d01b5ba"
 metafile = true
