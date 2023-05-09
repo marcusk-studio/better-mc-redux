@@ -1,7 +1,7 @@
 init_config:
 
 instances:
-  - openmetrics_endpoint: http://localhost:9225
+  - openmetrics_endpoint: http://localhost:9100
     namespace: minecraft
     metrics:
       - .+

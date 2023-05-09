@@ -2,11 +2,11 @@ hash-format = "sha256"
 
 [[files]]
 file = "conf.d/jmx.d/conf.yaml"
-hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+hash = "d2d8da1b2ce57652d85f19b6bd24a0ad6605bbc80da2a0ff2d3ac636b8acd4e5"
 
 [[files]]
 file = "conf.d/openmetrics.d/conf.yaml"
-hash = "f39f169935a524a941df4aa0dad05cdac3d430e4c1f27d19a4414a2aa334ac0e"
+hash = "1729c3b5004173ab87471f5862f86de4bdc6337678b92541de67f5166a47702f"
 
 [[files]]
 file = "config/InventoryHUD/curios.json"
