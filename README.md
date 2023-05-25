@@ -1,11 +1,14 @@
-# Better MC - Marcusk Redux
+# Better MC Fabric - MARCUSK Redux
 
-The [packwiz](https://packwiz.infra.link/) for Marcusk's Better MC fork is maintained here.
+This is the **Minecraft 1.19.2** [packwiz](https://packwiz.infra.link/) for MARCUSK's fork of Better MC Fabric.
 
-Currently, this pack is available for **Fabric 1.19.2** only.
+The official SMP server for this pack is available exclusively as a supporter benefit to [MARCUSK Patreon](https://www.patreon.com/MARCUSK) VIPs.
 
-This Better MC fork has a handful of changes specifically compiled for the VIP server available to [MARCUSK Patron](https://www.patreon.com/MARCUSK) supporters.
+> **Warning**
+> The server running this pack was decomissioned _(as of 16-May-2023)_
+>
+> As such, this fork is now **archived** and no longer maintained
 
-## Credit
+## Attribution
 
-Many thanks to the creators of the original Better MC, they put the majority of the hard work in; to support those authors, take a look at the [original version](https://www.curseforge.com/minecraft/modpacks/better-mc-fabric)!
+Many thanks to the original Better MC authors! To support their work, find the original version [on Curseforge](https://www.curseforge.com/minecraft/modpacks/better-mc-fabric).
